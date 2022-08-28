@@ -12,7 +12,7 @@ export default function App() {
         <a
           href="https://github.com/Dralena/weather-app"
           target="_blank"
-          rel="noopener"
+          rel="noopener noreferrer"
         >
           Open-source code
         </a>{" "}
